@@ -1,0 +1,22 @@
+@import url(fonts.css);
+@import url(palette.css);
+
+body{
+    background-color: var(--tradewind);
+}
+
+.navbar{
+    display: flex;
+    width: 95%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+
+    background-color: var(--light-tradewind);
+
+    justify-content: center;
+    color: var(--astral);
+}
+
+.nav-item{
+    padding: 1% 2%;
+}

@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Enixe";
+    src: url(../fonts/enixe.otf);
+}
+
+@font-face {
+    font-family: "Reality";
+    src: url(../fonts/reality.ttf);
+}
+
+@font-face {
+    font-family: "Octosquares";
+    src: url(../fonts/octosquares.ttf);
+}
+
+@font-face {
+    font-family: "Fast Hand";
+    src: url(../fonts/fasthand.otf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Vermin";
+    src: url(../fonts/vermin.otf);
+}
