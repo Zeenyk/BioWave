@@ -92,9 +92,9 @@ These are the two manuals from the BioBench company regarding the bio reactor Bi
 * Antonio Roggio --> Documentation, UI / UX, Frontend
 * Luca Fabris --> Documentation, UI / UX, Frontend
 * Suad Bojagic --> UI / UX, Frontend (Helper)
-* Federico Peselli --> Documentation, Backend & Logics
 * Leonardo Taverna --> Backend & Logics
 * Matteo Turello --> Backend & Logics (Helper)
+* Federico Peselli --> Fullstack, Main Backend & Logics
 * Daniele Toniolo --> Fullstack
 * Sami Sufiane --> Fullstack (Helper) 
 ***
