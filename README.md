@@ -45,24 +45,30 @@ These are the two manuals from the BioBench company regarding the bio reactor Bi
 - BioFlex connected to LAN  
 
 ### Installation  
-1. Clone the repo:  
-   ```bash  
-   git clone https://github.com/Zeenyk/BioWave.git
-    ```
+**1. Clone** the repo:  
+  ```bash  
+  git clone https://github.com/Zeenyk/BioWave.git
+  ```
+**2. Everytime** you want to work on the repo, you have to run this command on the current directory in VSCode
+  ```bash  
+  git pull
+  ```
+**3.** Every group has to **create a branch**: a single branch represent the implementation of something new. You can keep pushing updates in the branch and then, when the new feature is full implemented, you can merge the branch to the main one.
    
 ***
+
+
 
 ### Work Subdivision ( Credits )
 
 * Antonio Roggio --> Documentation, UI / UX, Frontend
-* Leonardo Taverna --> Backend & Logics
-* Federico Peselli --> Backend & Logics
-* Sami Sufiane --> Fullstack ( Helper ) 
-* Matteo Turello --> UI / UX, Frontend ( Helper )
 * Luca Fabris --> Documentation, UI / UX, Frontend
-* Suad Bojacic --> Backend & Logics ( Helper )
+* Suad Bojagic --> UI / UX, Frontend (Helper)
+* Federico Peselli --> Documentation, Backend & Logics
+* Leonardo Taverna --> Backend & Logics
+* Matteo Turello --> Backend & Logics (Helper)
 * Daniele Toniolo --> Fullstack
-
+* Sami Sufiane --> Fullstack (Helper) 
 ***
 
 
