@@ -54,6 +54,34 @@ These are the two manuals from the BioBench company regarding the bio reactor Bi
   git pull
   ```
 **3.** Every group has to **create a branch**: a single branch represent the implementation of something new. You can keep pushing updates in the branch and then, when the new feature is full implemented, you can merge the branch to the main one.
+
+- Create a new branch and move to it:
+  ```bash  
+  git checkout -b new-branch starting-branch
+  ```
+
+- Move to a branch:
+  ```bash  
+  git checkout branch-name
+  ```
+
+- Rename the current branch:
+  ```bash  
+  git branch -m new-name
+  ```
+
+- Merge branch
+  ```bash  
+  git chechout origin-branch
+  git merge branch-name
+  ```
+
+**4. Everytime** you finished something, you have to push the new things. You have to run the following commands:
+  ```bash  
+  git add .
+  git commit -m "Write here what you changed or added to the branch"
+  git push
+  ```
    
 ***
 
