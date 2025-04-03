@@ -87,7 +87,7 @@ These are the two manuals from the BioBench company regarding the bio reactor Bi
 
 
 
-### Work Subdivision ( Credits )
+### Work Subdivision (Credits)
 
 * Antonio Roggio --> Documentation, UI / UX, Frontend
 * Luca Fabris --> Documentation, UI / UX, Frontend
