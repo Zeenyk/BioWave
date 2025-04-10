@@ -95,7 +95,7 @@ These are the two manuals from the BioBench company regarding the bio reactor Bi
 * Leonardo Taverna --> Backend & Logics
 * Matteo Turello --> Backend & Logics (Helper)
 * Federico Peselli --> Fullstack, Main Backend & Logics
-* Daniele Toniolo --> Fullstack
+* Daniele Toniolo --> Fullstack, API/DB
 * Sami Sufiane --> Fullstack (Helper) 
 ***
 
