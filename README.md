@@ -4,6 +4,9 @@
 
 BioWave is a web-based application designed to remotely control and monitor the **BioBench bioreactor** (BioFlex) over a **Local Area Network (LAN)**. Unlike the existing Windows-only software, BioWave provides a **cross-platform, mobile-friendly interface**, making it more accessible for chemists and students who may not be tech-savvy.
 
+## Design prototype (PenPot)
+- [Home Page](https://design.penpot.app/#/view?file-id=9f31952d-2d54-8169-8006-1327b5e0986d&page-id=9f31952d-2d54-8169-8006-13082bd4948d&section=interactions&index=0&share-id=749aaa04-8836-81c6-8006-13bc233b8c5f)
+
 ## General Objectives
 
 * [ ] Make a dynamic web app that can remotely connect to the bio reactor BioBench like the BioFlex Windows Software.
